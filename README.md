@@ -4,7 +4,7 @@
 [Voir l'application en ligne](https://explorateur-articles.vercel.app/)
 
 ## Description
-Une application React permettant d'aller chercher des articles de blog depuis un serveur (passant par un fetch(...)) , affiche ceux-ci en lien cliquable,puis affiche le titre et le corps de l'article sur lequel on a cliqué .
+Une application React permettant d'aller chercher des articles de blog depuis un serveur (passant par un fetch(...)), affiche ceux-ci en lien cliquable, puis affiche le titre et le corps de l'article sur lequel on a cliqué.
 
 ## Technologies
 React, Vite, React Router
